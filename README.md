@@ -1,8 +1,8 @@
-# Star Wars Guide Application
+# Sitting Position Detection Application
 
 This is a React-based Weather Web Application with support for multiple weather related data such as current temp, wind, 3 hour forecast etc.
 Visit the Application -
-https://nimbus-hub-weather.netlify.app/
+https://sitting-position-detection.vercel.app/
 
 ## Table of Contents
 
@@ -16,10 +16,9 @@ https://nimbus-hub-weather.netlify.app/
 ## Features
 
 •	Frontend development using ReactJS, Next JS, Tailwind for creating interactive, intuitive and responsive UI. <br>
-•	SWAPI implementation using Axios. <br>
-•	Custom Card for showing star wars related information such as movies, characters, planets. <br>
+•	Custom Authentication using logic and tensorFlow. <br>
 •	Responsive and intuitive UI for across devices such as desktop and mobile. <br>
-•	Create efficient and hightly optimized react components. <br>
+•	Build efficient and hightly optimized react components. <br>
 •	Made Custom spinner to show a status while fetching the data from api. <br>
 •	Successfully Deployed the application on Vercel. <br>
 
@@ -27,8 +26,7 @@ https://nimbus-hub-weather.netlify.app/
 ## Technologies Used
 
 •	Frontend – React JS, Next JS, Javascript, Tailwind <br>
-•	Backend  – JavaScript <br>
-•	API – SWAPI <br>
+•	Backend  – JavaScript, TensorFlow, React-WebCam <br>
 •	NPM Packages – Cors, Axios, React Dom, 
 
 ## Demo
@@ -42,7 +40,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/kakashihatakesh6/star-wars-guide
+git clone https://github.com/kakashihatakesh6/sitting-position-detection
 ```
 
 2. open the project in terminal and then run:
@@ -129,7 +127,7 @@ Fixes #10
 ## Contact
 
 If you have any questions, suggestions, or issues regarding the Nimbus-Hub, 
-please feel free to reach out to us through the [Issues]( https://github.com/kakashihatakesh6/star-wars-guide/issues) section of this repository.
+please feel free to reach out to us through the [Issues]( https://github.com/kakashihatakesh6/sitting-position-detection/issues) section of this repository.
 You can also discuss with as in the discussion template, there are there meaningfull discussion.
 You can also contact me via my [email](mailto:imnikhil133@gmail.com).
 
